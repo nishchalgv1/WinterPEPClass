@@ -34,4 +34,20 @@ int main(){
         cout << (*it1).first << " " << (*it1).second << endl;
     }
 
+    // range based loop
+    cout << "Print vector using range based loop: " << endl;
+    for(int &val: v){
+        val++;
+    }
+
+    for(int val: v){
+        cout << val << "  ";
+    }
+    cout << endl;
+
+    // print vp1
+    cout << "Print vp1 using range based loop: " << endl;
+    for(auto &p : vp1){
+        cout << p.first << " " << p.second << endl;
+    }
 }
