@@ -1,0 +1,28 @@
+// easy ones
+- Coin Change
+- Frog Jump
+- Climb Stairs
+
+// Easy ones
+- Count no of subsets with given sum
+- Subset sum partition
+- Minimise subset sum difference
+
+// Above 6 problems should be completed till the end of 3 hours
+
+// explain the dry run of recursive function only
+// write the tabular dp code and recursive code and ask them to write the memoization code
+
+
+// Need to learn
+- Coin Change 2
+- Road Cutting
+- Edit Distance
+- 
+
+
+
+// Need to learn
+- Word break
+- Egg dropping problem
+- Matrix Chain Multiplication
